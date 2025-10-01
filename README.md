@@ -1,6 +1,6 @@
 # Project Name
-Put here a short paragraph describing your project. 
-Adding an screenshot or a mockup of your application in action would be nice.  
+The application will be a casino that has the option to play a variety of games. There is a project from a previous semester called Casino Simulator which would be very similar to that concept, except this project will come with additional features, like more games, a leaderboard tracking system, and the ability to play with others online utilizing AWS. Some table game we would include, but not limited to are Blackjack, Craps, Crapless, Baccorat, and poker. This project can either be developed from scratch using python’s Django, or a different full-stack web framework.
+ 
 
 ![This is a screenshot.](images.png)
 # How to run
